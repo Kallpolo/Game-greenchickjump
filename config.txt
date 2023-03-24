@@ -1,0 +1,8 @@
+{"c2dictionary":true, "data":{
+	"facebookPage":"http://www.facebook.com/bnagames",
+	"twitterPage":"http://www.twitter.com/myTwitterPage",
+	"googlePage":"http://www.google.com/myGooglePage",
+	"rateUs":"market://details?id=com.company.appname&write_review=true",
+	"moreGames":"http://www.bnagames.com",
+	"shareMessage":"I just scored $score at Green Chick Jump !"
+}}
